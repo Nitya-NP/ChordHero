@@ -21,7 +21,7 @@ Our project was awarded 2nd place in a university competition among 200+ first-y
 
 ---
 
-# My Contributions : 
+# My Contributions 
 I contributed to coding and implementation across the entire project, including:
 - Developing core classes (VisualClass, SongClass, Block, Button, Main)
 - Implementing audio playback and chord logic
