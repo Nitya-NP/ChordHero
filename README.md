@@ -16,8 +16,8 @@ Our project was awarded 2nd place in a university competition among 200+ first-y
 ---
 
 # Tech Stack
-Language: Python
-Libraries: Pygame
+- Language: Python
+- Libraries: Pygame
 
 ---
 
@@ -35,6 +35,6 @@ Libraries: Pygame
 - Run the prototype from the main.py file
 - Once the app opens:
   - Choose from the few preloaded songs available.
-  - Use the Play (▶️), Pause (⏸️), Plus (➕), and Minus (➖) buttons to control playback and tempo.
+  - Use the Play, Pause, Plus, and Minus buttons to control playback and tempo.
   - Explore the How To Play section for instructions.
   
