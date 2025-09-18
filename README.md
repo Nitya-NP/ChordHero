@@ -21,8 +21,9 @@ Our project was awarded 2nd place in a university competition among 200+ first-y
 
 ---
 
-# My Contributions : I contributed to coding and implementation across the entire project, including:
-- Developing core classes (VisualClass, SongClass, Block, Button)
+# My Contributions : 
+I contributed to coding and implementation across the entire project, including:
+- Developing core classes (VisualClass, SongClass, Block, Button, Main)
 - Implementing audio playback and chord logic
 - Designing UI interactions (play, pause, navigation)
 - Debugging and testing
@@ -32,7 +33,7 @@ Our project was awarded 2nd place in a university competition among 200+ first-y
 # How to Run
 - Clone this repository 
 - Install pygame - if needed
-- Run the prototype from the main.py file
+- Run the prototype from the Main.py file
 - Once the app opens:
   - Choose from the few preloaded songs available.
   - Use the Play, Pause, Plus, and Minus buttons to control playback and tempo.
