@@ -1,4 +1,4 @@
-# ChordHero
+# ChordHero - (Team Project)  
 
 ChordHero is a guitar-learning app prototype built as part of a first-year engineering group project. The app helps users learn guitar chords through an interactive visual and audio interface, and was specially designed to support individuals with Usher Syndrome, who may experience both hearing and vision impairments.
 
